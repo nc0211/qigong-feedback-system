@@ -28,4 +28,4 @@ they receive **positive reinforcement** through sound or haptic feedback.
 ## How to Run
 ```bash
 pip install -r requirements.txt
-python src/pose_check_sound.py
+python pose_check_sound.py
